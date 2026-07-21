@@ -2,14 +2,19 @@
   {
     "version": "2026-05-16_19-03-18",
     "title": "2026-05-16_19-03-18",
-    "aliases": [
-      "latest"
-    ]
+    "aliases": []
   },
   {
     "version": "2026-04-23_20-48-17",
     "title": "2026-04-23_20-48-17",
     "aliases": []
+  },
+  {
+    "version": "v0.0.3-alpha.1",
+    "title": "v0.0.3-alpha.1",
+    "aliases": [
+      "latest"
+    ]
   },
   {
     "version": "v0.0.1",
