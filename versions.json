@@ -12,6 +12,11 @@
   {
     "version": "v0.0.3-alpha.1",
     "title": "v0.0.3-alpha.1",
+    "aliases": []
+  },
+  {
+    "version": "v0.0.3-alpha.1-docs-2026-07-30",
+    "title": "v0.0.3-alpha.1-docs-2026-07-30",
     "aliases": [
       "latest"
     ]
